@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  text-align: center;
+}
+
+.show-card {
+  background: #F3BAED;
+  padding: 1rem;
+  margin: 2rem 30%;
+  text-align: center;
+}
+
+.show-card__details {
+  list-style: none;
+  margin-right: 15%;
+}

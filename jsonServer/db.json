@@ -1,0 +1,131 @@
+{
+    "users": [
+        {
+            "id": "broadwaycom",
+            "first": "Jane",
+            "last": "Doe",
+            "age": 30,
+            "shows": [
+                { 
+                    "title": "show1", 
+                    "category": ["broadway", "musical", "drama"], 
+                    "url": "/show1",
+                    "rating": 5
+                },
+                {
+                    "title": "show2",
+                    "category": ["broadway", "play", "drama"],
+                    "url": "/show2",
+                    "rating": 3
+                },
+                {
+                    "title": "show3",
+                    "category": ["off-broadway", "musical", "comedy"],
+                    "url": "/show3",
+                    "rating": 4
+                },
+                {
+                    "title": "show4",
+                    "category": ["broadway", "musical", "comedy"],
+                    "url": "/show4",
+                    "rating": 2
+                },
+                {
+                    "title": "show5",
+                    "category": ["broadway", "play", "comedy"],
+                    "url": "/show5",
+                    "rating": 5
+                },
+                {
+                    "title": "show6",
+                    "category": ["broadway", "play", "drama"],
+                    "url": "/show6",
+                    "rating": 3
+                },
+                {
+                    "title": "show7",
+                    "category": ["broadway", "musical", "comedy"],
+                    "url": "/show7",
+                    "rating": 4
+                },
+                {
+                    "title": "show8",
+                    "category": ["broadway", "play", "drama"],
+                    "url": "/show8",
+                    "rating": 1
+                },
+                {
+                    "title": "show9",
+                    "category": ["broadway", "play"],
+                    "url": "/show9",
+                    "rating": 5
+                },
+                {
+                    "title": "show10",
+                    "category": ["off-broadway", "musical", "comedy"],
+                    "url": "/show10",
+                    "rating": 4
+                },
+                {
+                    "title": "show11",
+                    "category": ["broadway", "musical", "comedy"],
+                    "url": "/show11",
+                    "rating": 4
+                },{
+                    "title": "show12",
+                    "category": ["broadway", "play", "comedy"],
+                    "url": "/show12",
+                    "rating": 3
+                },
+                {
+                    "title": "show13",
+                    "category": ["broadway", "musical", "drama"],
+                    "url": "/show13",
+                    "rating": 5
+                },
+                {
+                    "title": "show14",
+                    "category": ["broadway", "play", "comedy"],
+                    "url": "/show14",
+                    "rating": 2
+                },
+                {
+                    "title": "show15",
+                    "category": ["broadway", "play", "drama"],
+                    "url": "/show15",
+                    "rating": 3
+                },
+                {
+                    "title": "show16",
+                    "category": ["off-broadway", "musical", "comedy"],
+                    "url": "/show16",
+                    "rating": 5
+                },
+                {
+                    "title": "show17",
+                    "category": ["broadway", "play", "comedy"],
+                    "url": "/show17",
+                    "rating": 5
+                },
+                {
+                    "title": "show18",
+                    "category": ["broadway", "play", "drama"],
+                    "url": "/show18",
+                    "rating": 4
+                },
+                {
+                    "title": "show19",
+                    "category": ["off-broadway", "musical", "drama"],
+                    "url": "/show19",
+                    "rating": 3
+                },
+                {
+                    "title": "show20",
+                    "category": ["broadway", "musical", "comedy"],
+                    "url": "/show20",
+                    "rating": 2
+                }
+            ]
+        }
+    ]
+}
