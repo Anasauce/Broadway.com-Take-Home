@@ -22,4 +22,4 @@ Then you will need to open another terminal window and cd into `client` folder a
 - `npm start`
 - Prompted *"Would you like to run the server on a different port?"* Respond `Y`
 
-- You can view the solution on `localhost://3000`
+- You can view the solution on `localhost://3001` (json server will be running on port `3000`)
