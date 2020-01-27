@@ -10,11 +10,14 @@
 .show-card {
   background: #F3BAED;
   padding: 1rem;
-  margin: 2rem 30%;
+  margin-top: 2rem;
+  width: 30rem;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
 }
 
 .show-card__details {
   list-style: none;
-  margin-right: 15%;
+  margin-right: 10%;
 }
