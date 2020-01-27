@@ -20,7 +20,6 @@ export const ProfileHome = props => {
         }
         setLoading(false);
         const user = await response.json();
-        console.log("HIIII", user)
         return user.shows
     }
     

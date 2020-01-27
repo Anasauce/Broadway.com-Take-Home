@@ -16,7 +16,6 @@ export const getFavoriteShowsByUserId2 = async userId => {
     }
 
     const user = await response.json();
-    console.log("HIII", user.shows)
     return user.shows
 }
 
